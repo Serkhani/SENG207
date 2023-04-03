@@ -1,6 +1,8 @@
 # QR Code Generator App 📰
 This is a simple application that generates QR codes from any text input. The app's interface is designed with the user in mind and is easy to use.
 
+![QRCodeGen](https://github.com/Serkhani/SENG207/blob/f5b4368e97b2b47c527d8866f6b4b3bb67ff6e2c/repo_resources/qrcode_snip.JPG)
+
 ### Installation 🖥️
 To run the application, you will need to have Python 3.x installed on your computer. You can download it from the official [Python website](https://www.python.org/downloads/)
 

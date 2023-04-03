@@ -4,6 +4,7 @@ The Text to Speech App is a Python application that allows users to convert any 
 
 The application's primary goal is to provide an audio-based interface for individuals with visual impairments or anyone who prefers to listen rather than read text.
 
+![Speechify](https://github.com/Serkhani/SENG207/blob/007adb0bf72b07bc73243d8d3c3688b1251bb6c1/repo_resources/speechify_snip.JPG)
 
 ### Installation 🖥️
 To run the application, you will need to have Python 3.x installed on your computer. You can download it from the official [Python website](https://www.python.org/downloads/)
